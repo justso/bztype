@@ -1,9 +1,5 @@
 html,body {
     background-color: #25272b;
-    background-image: url(phobos.png);
-    background-position: 54px 105px;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
     color: #fff;
     font-family: helvetica, arial, sans-serif;
     margin: 0;
